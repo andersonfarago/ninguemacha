@@ -1,0 +1,17 @@
+{
+    "__version__": 1,
+    "cc": "55",
+    "client_static_keypair": "EB+p5Trv2oQYIg3LmKt4Jw7mL5FO1XVLbUnRsy14LHQXiBoqRYeWxw7EaPzs8mA4I76ryaNaEK8x8Yt+gCNTYw==",
+    "edge_routing_info": "CAUIAg==",
+    "expid": "m09AK6nUT/qsqG7wVLk44Q==",
+    "fdid": "82f3df45-101c-438b-88b5-6df58917249d",
+    "id": "LUO5hteDEYbVk3BF9f/UAuvD/8k=",
+    "login": "551141528400",
+    "mcc": "000",
+    "mnc": "000",
+    "phone": "551141528400",
+    "pushname": "Virtual Office",
+    "server_static_public": "LKFtqKAASnxIgl89fmUjtpxpL8WVkwPZLMk3ybT3ggI=",
+    "sim_mcc": "000",
+    "sim_mnc": "000"
+}
